@@ -123,6 +123,10 @@ body {
     padding: 70px 0;
 }
 
+.projetos a:hover{
+    text-decoration: underline;
+}
+
 .projetos .titulo {
     text-align: center;
     padding: 60px 0;
